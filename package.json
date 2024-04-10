@@ -1,12 +1,20 @@
 {
   "name": "fadonougbo_test_package2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fadonougbo first package",
   "main": "index.js",
   "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "fadonougbo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fadonougbo/test_package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fadonougbo/test_package/issues"
+  },
+  "homepage": "https://github.com/Fadonougbo/test_package",
+  "author": "fadonougbo <fadougbo@gmail.com> ",
   "license": "MIT"
 }
